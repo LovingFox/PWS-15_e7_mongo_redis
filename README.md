@@ -14,7 +14,7 @@ https://sf.rtru.tk/stat/<adv_id> [GET]
 	- flask-mongoengine
 	- Flask-RESTful
 	- Flask-Caching
-- Все GET запросы кешируются в Redis при первом обращении
+- Все GET запросы кэшируются в Redis при первом обращении
 - Если что-то поменяется в Mongodb, то соответствующая запись в Redis стирается
 - Dockerfile и docker-compose.yml
 
