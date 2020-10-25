@@ -12,7 +12,7 @@ https://sf.rtru.tk/stat/<adv_id> [GET]
 ### Реализовано
 - flask-приложение для хренения объявлений
 	- flask-mongoengine
-	- Flask-RESTfu
+	- Flask-RESTful
 	- Flask-Caching
 - Все GET запросы кешируются в Redis при первом обращении
 - Если что-то поменяется в Mongodb, то соответствующая запись в Redis стирается
