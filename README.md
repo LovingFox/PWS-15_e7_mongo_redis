@@ -56,7 +56,7 @@ $ http http://0.0.0.0:5001/adv/5f959c59e1d2600eb93045b7
 ```
 /adv PATCH
 $ http patch http://0.0.0.0:5001/adv/5f959c59e1d2600eb93045b7 title="New Title"
-$ http patch http://0.0.0.0:5001/adv/5f959c59e1d2600eb93045b7 bode="New Body text message"
+$ http patch http://0.0.0.0:5001/adv/5f959c59e1d2600eb93045b7 body="New Body text message"
 ```
 - Удалить объявление
 ```
