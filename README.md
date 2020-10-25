@@ -6,6 +6,7 @@ https://sf.rtru.tk/advs [GET, POST]
 https://sf.rtru.tk/adv/<adv_id> [GET, PATCH, DELETE]
 https://sf.rtru.tk/tags/<adv_id> [POST, DELETE]
 https://sf.rtru.tk/comment/<adv_id> [POST]
+https://sf.rtru.tk/stat/<adv_id> [GET]
 ```
 
 ### Реализовано
