@@ -1,6 +1,6 @@
 # PWS-15_e7_mongo_redis
 
-## API Доступен на виртуальном сервере в облаке Яндекс (до 2020.12.08) по адресам:
+## API Доступен по адресам:
 ```
 https://sf.rtru.tk/advs [GET, POST]
 https://sf.rtru.tk/adv/<adv_id> [GET, PATCH, DELETE]
